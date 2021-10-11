@@ -9,8 +9,6 @@
  mais utilizadas no mercado, conectando-se com grandes experts da área."
 ```
 
-
-
 ## Atividades
 
 - [ ] Boas-vindas ao Bootcamp Eduzz Fullstack Developer
