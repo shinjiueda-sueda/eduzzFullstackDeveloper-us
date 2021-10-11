@@ -1,2 +1,3 @@
-# eduzzFullstackDeveloper-us
-Eduzz Fullstack Developer Bootcamp 2021
+# Eduzz Fullstack Developer Bootcamp 2021
+
+
